@@ -1,0 +1,47 @@
+{
+  "bot-account": {
+    "username": "garotodeprograma",
+    "password": "",
+    "type": "offline"
+  },
+
+  "server": {
+    "ip": "Garotosdeprograma.play.hosting",
+    "port": 25565,
+    "version": "1.16.5"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+      "messages": [
+        "I'm a regular player",
+        "My owner is Lamgerr",
+        "I want be alone"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
